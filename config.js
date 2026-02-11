@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
+    valentineName: "Felice",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -70,7 +70,7 @@ const CONFIG = {
         floatDuration: "15s",           // How long it takes hearts to float up (10-20s recommended)
         floatDistance: "50px",          // How far hearts move sideways (30-70px recommended)
         bounceSpeed: "0.5s",            // Speed of bouncing animations (0.3-0.7s recommended)
-        heartExplosionSize: 1.5         // Size of heart explosion effect (1.2-2.0 recommended)
+        heartExplosionSize: 1.3         // Size of heart explosion effect (1.2-2.0 recommended)
     },
 
     // Background Music (Optional)
