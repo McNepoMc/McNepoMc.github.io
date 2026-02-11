@@ -1,10 +1,9 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 
 <html lang="de">
 <head>
   <meta charset="UTF-8">
   <title>💖 Will you be my Valentine?</title>
-<head>
   <style>
     body {
       background: #ffe6f0;
@@ -44,5 +43,3 @@
   </script>
 
 </body>
-
-</html>
