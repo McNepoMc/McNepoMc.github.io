@@ -4,6 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <title>💖 Will you be my Valentine?</title>
+<head>
   <style>
     body {
       background: #ffe6f0;
@@ -23,6 +24,7 @@
     .yes { background: #ff4d6d; color: white; }
     .no { background: #ccc; }
   </style>
+ 
 <body>
 
   <h1>Will you be my Valentine? 💘</h1>
